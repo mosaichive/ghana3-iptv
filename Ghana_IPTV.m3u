@@ -49,12 +49,8 @@ https://g2qd3exjy7an-hls-live.5centscdn.com/metrotvg/ghanaweb.stream/playlist.m3
 https://g2qd3exjy7an-hls-live.5centscdn.com/tvafrica/ghanaweb.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-chno="8" tvg-id="TV3Ghana" tvg-name="TV3 Ghana" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/tv3.png" group-title="Ghana",TV3 Ghana
-#EXTVLCOPT:http-referrer=https://liveghanatv.com/tv3-live/
-#EXTVLCOPT:http-origin=https://liveghanatv.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-chno="11" tvg-id="TV3GhanaYT" tvg-name="TV3 Ghana Live" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/tv3.png" group-title="Ghana",TV3 Ghana Live
+plugin://plugin.video.youtube/play/?video_id=6dtdHz6bMMU
 
 #EXTINF:-1 tvg-chno="9" tvg-id="UTVGhana" tvg-name="UTV Ghana" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/utv.png" group-title="Ghana",UTV Ghana
 #EXTVLCOPT:http-referrer=https://liveghanatv.com/utv-live/
