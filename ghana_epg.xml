@@ -39,9 +39,30 @@
 <display-name>GTV Ghana</display-name>
 </channel>
 
-<channel id="JoyPrime">
-<display-name>Joy Prime</display-name>
+<channel id="JoyPrimeYT">
+    <display-name>Joy Prime YouTube Live</display-name>
+    <icon src="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/joyprime.png"/>
 </channel>
+
+<programme start="20260726000000 +0000" stop="20260726060000 +0000" channel="JoyPrimeYT">
+    <title>Joy Prime Live</title>
+    <desc>Live broadcast from Joy Prime Ghana</desc>
+</programme>
+
+<programme start="20260726060000 +0000" stop="20260726120000 +0000" channel="JoyPrimeYT">
+    <title>Joy Prime Morning Programmes</title>
+    <desc>News, entertainment and current affairs</desc>
+</programme>
+
+<programme start="20260726120000 +0000" stop="20260726180000 +0000" channel="JoyPrimeYT">
+    <title>Joy Prime Live</title>
+    <desc>Entertainment, news and programmes from Joy Prime</desc>
+</programme>
+
+<programme start="20260726180000 +0000" stop="20260727000000 +0000" channel="JoyPrimeYT">
+    <title>Joy Prime Evening Programmes</title>
+    <desc>Prime-time shows and live broadcast</desc>
+</programme>
 
 <channel id="MetroTVGhana">
 <display-name>Metro TV Ghana</display-name>
