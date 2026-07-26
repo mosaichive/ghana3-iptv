@@ -36,6 +36,31 @@
 
 <channel id="UTVGhana">
 <display-name>UTV Ghana</display-name>
+
+  <channel id="JoyNewsYT">
+    <display-name>JoyNews Live</display-name>
+    <icon src="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/joynews.png"/>
+</channel>
+
+<programme start="20260726000000 +0000" stop="20260726060000 +0000" channel="JoyNewsYT">
+    <title>JoyNews Live</title>
+    <desc>Live news updates from JoyNews Ghana</desc>
+</programme>
+
+<programme start="20260726060000 +0000" stop="20260726120000 +0000" channel="JoyNewsYT">
+    <title>JoyNews Live</title>
+    <desc>Continuous live news coverage</desc>
+</programme>
+
+<programme start="20260726120000 +0000" stop="20260726180000 +0000" channel="JoyNewsYT">
+    <title>JoyNews Live</title>
+    <desc>Latest Ghana and international news updates</desc>
+</programme>
+
+<programme start="20260726180000 +0000" stop="20260727000000 +0000" channel="JoyNewsYT">
+    <title>JoyNews Live</title>
+    <desc>Evening news and current affairs</desc>
+</programme>
 </channel>
 
 </tv>
