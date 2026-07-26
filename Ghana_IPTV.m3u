@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/ghana_epg.xml" refresh="3600"
 
-
-
 #EXTINF:-1 tvg-chno="1" tvg-id="AdomTV" tvg-name="Adom TV" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/adom.png" group-title="Ghana",Adom TV
 
 #EXTVLCOPT:http-referrer=https://liveghanatv.com/adom-tv-live/
@@ -11,9 +9,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 https://g2qd3exjy7an-hls-live.5centscdn.com/adomtv/ghanatvweb.stream/chunks.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-chno="2" tvg-id="AtinkaTV" tvg-name="Atinka TV" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/atinka.png" group-title="Ghana",Atinka TV
@@ -27,9 +22,6 @@ https://g2qd3exjy7an-hls-live.5centscdn.com/adomtv/ghanatvweb.stream/chunks.m3u8
 https://g2qd3exjy7an-hls-live.5centscdn.com/atinkkatv/ghanaweb.stream/playlist.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-chno="3" tvg-id="GHOneTV" tvg-name="GHOne TV" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/ghone.png" group-title="Ghana",GHOne TV
 
 #EXTVLCOPT:http-referrer=https://liveghanatv.com/ghone-tv-live/
@@ -39,9 +31,6 @@ https://g2qd3exjy7an-hls-live.5centscdn.com/atinkkatv/ghanaweb.stream/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 https://g2qd3exjy7an-hls-live.5centscdn.com/ghonetv/ghanaweb.stream/playlist.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-chno="4" tvg-id="GTVGhana" tvg-name="GTV Ghana" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/gtv.png" group-title="Ghana",GTV Ghana
@@ -55,9 +44,6 @@ https://g2qd3exjy7an-hls-live.5centscdn.com/ghonetv/ghanaweb.stream/playlist.m3u
 https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-chno="5" tvg-id="JoyPrime" tvg-name="Joy Prime" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/joyprime.png" group-title="Ghana",Joy Prime
 
 #EXTVLCOPT:http-referrer=https://liveghanatv.com/joy-prime-live/
@@ -67,9 +53,6 @@ https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 https://g2qd3exjy7an-hls-live.5centscdn.com/joyprim/ghanaweb.stream/playlist.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-chno="6" tvg-id="MetroTVGhana" tvg-name="Metro TV Ghana" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/metro.png" group-title="Ghana",Metro TV Ghana
@@ -83,9 +66,6 @@ https://g2qd3exjy7an-hls-live.5centscdn.com/joyprim/ghanaweb.stream/playlist.m3u
 https://g2qd3exjy7an-hls-live.5centscdn.com/metrotvg/ghanaweb.stream/playlist.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-chno="7" tvg-id="TVAfricaGhana" tvg-name="TV Africa" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/tvafrica.png" group-title="Ghana",TV Africa
 
 #EXTVLCOPT:http-referrer=https://liveghanatv.com/tv-africa-live/
@@ -95,9 +75,6 @@ https://g2qd3exjy7an-hls-live.5centscdn.com/metrotvg/ghanaweb.stream/playlist.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 https://g2qd3exjy7an-hls-live.5centscdn.com/tvafrica/ghanaweb.stream/playlist.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-chno="8" tvg-id="TV3Ghana" tvg-name="TV3 Ghana" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/tv3.png" group-title="Ghana",TV3 Ghana
@@ -111,9 +88,6 @@ https://g2qd3exjy7an-hls-live.5centscdn.com/tvafrica/ghanaweb.stream/playlist.m3
 https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-chno="9" tvg-id="UTVGhana" tvg-name="UTV Ghana" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/utv.png" group-title="Ghana",UTV Ghana
 
 #EXTVLCOPT:http-referrer=https://liveghanatv.com/utv-live/
@@ -123,9 +97,6 @@ https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 https://g2qd3exjy7an-hls-live.5centscdn.com/utvgha/ghanaweb.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="10" tvg-id="SportyTVLive" tvg-name="Sporty TV Live Streams" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/sportytv.png" group-title="Sports",Sporty TV Live Streams
-plugin://plugin.video.youtube/channel/UCwu87p766uwEyzG1p8dEMlg/live
 
 #EXTINF:-1 tvg-chno="10" tvg-id="JoyNewsYT" tvg-name="JoyNews Live" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/joynews.png" group-title="Ghana",JoyNews Live
 plugin://plugin.video.youtube/play/?video_id=ADE5ySGKpYE
