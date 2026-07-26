@@ -64,3 +64,29 @@
 </channel>
 
 </tv>
+
+<channel id="SportyTV">
+    <display-name>Sporty TV</display-name>
+    <icon src="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/sportytv.png"/>
+</channel>
+
+
+<programme start="20260726000000 +0000" stop="20260726060000 +0000" channel="SportyTV">
+    <title>Sporty TV Live</title>
+    <desc>24/7 live sports coverage, football, highlights and sports programmes.</desc>
+</programme>
+
+<programme start="20260726060000 +0000" stop="20260726120000 +0000" channel="SportyTV">
+    <title>Sporty TV Sports Centre</title>
+    <desc>Live sports news, analysis and match coverage.</desc>
+</programme>
+
+<programme start="20260726120000 +0000" stop="20260726180000 +0000" channel="SportyTV">
+    <title>Live Sports</title>
+    <desc>Live sporting events and football coverage.</desc>
+</programme>
+
+<programme start="20260726180000 +0000" stop="20260727000000 +0000" channel="SportyTV">
+    <title>Sporty TV Prime Sports</title>
+    <desc>Premium sports events, highlights and analysis.</desc>
+</programme>
