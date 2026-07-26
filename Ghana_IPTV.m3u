@@ -124,8 +124,8 @@ https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8
 
 https://g2qd3exjy7an-hls-live.5centscdn.com/utvgha/ghanaweb.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-id="SportyTV" tvg-name="Sporty TV Live" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/sportytv.png" group-title="Sports",Sporty TV Live
-plugin://plugin.video.youtube/channel/UCwu87p766uwEyzG1p8dEMlg
+#EXTINF:-1 tvg-chno="10" tvg-id="SportyTVLive" tvg-name="Sporty TV Live Streams" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/sportytv.png" group-title="Sports",Sporty TV Live Streams
+plugin://plugin.video.youtube/channel/UCwu87p766uwEyzG1p8dEMlg/live
 
 #EXTINF:-1 tvg-chno="10" tvg-id="JoyNewsYT" tvg-name="JoyNews Live" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/joynews.png" group-title="Ghana",JoyNews Live
 plugin://plugin.video.youtube/play/?video_id=ADE5ySGKpYE
