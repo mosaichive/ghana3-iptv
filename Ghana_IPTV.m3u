@@ -130,5 +130,5 @@ plugin://plugin.video.youtube/channel/UCwu87p766uwEyzG1p8dEMlg/live
 #EXTINF:-1 tvg-chno="10" tvg-id="JoyNewsYT" tvg-name="JoyNews Live" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/joynews.png" group-title="Ghana",JoyNews Live
 plugin://plugin.video.youtube/play/?video_id=ADE5ySGKpYE
 
-#EXTINF:-1 tvg-chno="14" tvg-id="BBNaija" tvg-name="Big Brother Naija" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/bbnaija.png" group-title="Entertainment",Big Brother Naija
-plugin://plugin.video.youtube/channel/UC34uLurUBx_pkoB04nOsLg
+#EXTINF:-1 tvg-chno="14" tvg-id="BBNaijaLive" tvg-name="Big Brother Naija Live" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/bbnaija.png" group-title="Entertainment",Big Brother Naija Live
+plugin://plugin.video.youtube/channel/UC34uLurUBx_pkoB04nOsLg/live
