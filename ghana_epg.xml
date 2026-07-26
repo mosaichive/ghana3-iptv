@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tv generator-info-name="Ghana IPTV">
+
+<channel id="AdomTV">
+<display-name>Adom TV</display-name>
+</channel>
+
+<channel id="AtinkaTV">
+<display-name>Atinka TV</display-name>
+</channel>
+
+<channel id="GHOneTV">
+<display-name>GHOne TV</display-name>
+</channel>
+
+<channel id="GTVGhana">
+<display-name>GTV Ghana</display-name>
+</channel>
+
+<channel id="JoyPrime">
+<display-name>Joy Prime</display-name>
+</channel>
+
+<channel id="MetroTVGhana">
+<display-name>Metro TV Ghana</display-name>
+</channel>
+
+<channel id="TVAfricaGhana">
+<display-name>TV Africa</display-name>
+</channel>
+
+<channel id="TV3Ghana">
+<display-name>TV3 Ghana</display-name>
+</channel>
+
+<channel id="UTVGhana">
+<display-name>UTV Ghana</display-name>
+</channel>
+
+</tv>
