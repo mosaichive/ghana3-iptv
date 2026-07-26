@@ -30,9 +30,25 @@
 <display-name>TV Africa</display-name>
 </channel>
 
-<channel id="TV3Ghana">
-<display-name>TV3 Ghana</display-name>
+<channel id="TV3GhanaYT">
+    <display-name>TV3 Ghana Live</display-name>
+    <icon src="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/tv3.png"/>
 </channel>
+
+<programme start="20260726000000 +0000" stop="20260726060000 +0000" channel="TV3GhanaYT">
+    <title>TV3 Ghana Live</title>
+    <desc>Live broadcast from TV3 Ghana</desc>
+</programme>
+
+<programme start="20260726060000 +0000" stop="20260726120000 +0000" channel="TV3GhanaYT">
+    <title>TV3 Ghana Morning Programming</title>
+    <desc>News, entertainment and current affairs</desc>
+</programme>
+
+<programme start="20260726120000 +0000" stop="20260727000000 +0000" channel="TV3GhanaYT">
+    <title>TV3 Ghana Live</title>
+    <desc>TV3 Ghana live television broadcast</desc>
+</programme>
 
 <channel id="UTVGhana">
 <display-name>UTV Ghana</display-name>
