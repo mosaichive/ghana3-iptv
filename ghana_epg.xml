@@ -2,9 +2,30 @@
 
 <tv generator-info-name="Ghana IPTV">
 
-<channel id="AdomTV">
-<display-name>Adom TV</display-name>
+<channel id="AdomTVYT">
+    <display-name>Adom TV YouTube Live</display-name>
+    <icon src="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/adom.png"/>
 </channel>
+
+<programme start="20260726000000 +0000" stop="20260726060000 +0000" channel="AdomTVYT">
+    <title>Adom TV Live</title>
+    <desc>Live broadcast from Adom TV Ghana</desc>
+</programme>
+
+<programme start="20260726060000 +0000" stop="20260726120000 +0000" channel="AdomTVYT">
+    <title>Adom TV Morning Programmes</title>
+    <desc>News, current affairs and entertainment</desc>
+</programme>
+
+<programme start="20260726120000 +0000" stop="20260726180000 +0000" channel="AdomTVYT">
+    <title>Adom TV Live</title>
+    <desc>Live Ghanaian news and programmes</desc>
+</programme>
+
+<programme start="20260726180000 +0000" stop="20260727000000 +0000" channel="AdomTVYT">
+    <title>Adom TV Evening Programmes</title>
+    <desc>Entertainment, news and current affairs</desc>
+</programme>
 
 <channel id="AtinkaTV">
 <display-name>Atinka TV</display-name>
