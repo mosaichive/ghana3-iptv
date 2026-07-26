@@ -25,11 +25,8 @@ https://g2qd3exjy7an-hls-live.5centscdn.com/ghonetv/ghanaweb.stream/playlist.m3u
 https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-chno="5" tvg-id="JoyPrime" tvg-name="Joy Prime" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/joyprime.png" group-title="Ghana",Joy Prime
-#EXTVLCOPT:http-referrer=https://liveghanatv.com/joy-prime-live/
-#EXTVLCOPT:http-origin=https://liveghanatv.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://g2qd3exjy7an-hls-live.5centscdn.com/joyprim/ghanaweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="JoyPrimeYT" tvg-name="Joy Prime YouTube Live" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/joyprime.png" group-title="Ghana",Joy Prime YouTube Live
+plugin://plugin.video.youtube/play/?video_id=SSprsp_1iac
 
 
 #EXTINF:-1 tvg-chno="6" tvg-id="MetroTVGhana" tvg-name="Metro TV Ghana" tvg-logo="https://raw.githubusercontent.com/YOUR_USERNAME/ghana-iptv/main/logos/metro.png" group-title="Ghana",Metro TV Ghana
